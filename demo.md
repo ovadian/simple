@@ -4,7 +4,7 @@ This is the second line!
 
 And the third.
 
-And a final fourth line. This is it. I mean it.
+And a final fourth line, on the master branch.
 
 I've added another line and mine is better.
 
