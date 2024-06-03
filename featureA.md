@@ -1,1 +1,0 @@
-This is new feature A content for feature-branchA.
